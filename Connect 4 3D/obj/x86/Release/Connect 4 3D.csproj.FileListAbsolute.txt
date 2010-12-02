@@ -1,0 +1,10 @@
+D:\Projects\Connect 4 3D\Connect 4 3D\bin\Release\Connect_4_3D.exe
+D:\Projects\Connect 4 3D\Connect 4 3D\bin\Release\Connect_4_3D.pdb
+D:\Projects\Connect 4 3D\Connect 4 3D\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\Connect 4 3D\Connect 4 3D\obj\x86\Release\Connect_4_3D.Properties.Resources.resources
+D:\Projects\Connect 4 3D\Connect 4 3D\obj\x86\Release\Connect_4_3D.JoinForm.resources
+D:\Projects\Connect 4 3D\Connect 4 3D\obj\x86\Release\Connect_4_3D.Options.resources
+D:\Projects\Connect 4 3D\Connect 4 3D\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projects\Connect 4 3D\Connect 4 3D\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projects\Connect 4 3D\Connect 4 3D\obj\x86\Release\Connect_4_3D.exe
+D:\Projects\Connect 4 3D\Connect 4 3D\obj\x86\Release\Connect_4_3D.pdb
